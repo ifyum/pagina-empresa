@@ -1,0 +1,74 @@
+body{
+background: #4B563B;
+
+}
+.top-menu ul{
+list-style:none;
+float: left;
+border: 0.1px dashed;
+padding: 2%;
+width: 95%;
+}
+.titulo{
+height: 145px;
+padding-left: 500px;
+padding-top: 50px;
+
+}
+.top-menu ul li{
+float: left;
+margin-right: 100px;
+background: #2F4724;
+padding: 10px;
+border-radius: 15%;
+margin-bottom: 10px;
+}
+.top-menu ul li a{
+color: #ffffff;
+text-decoration: none;
+}
+.top-menu ul li a:hover{
+color:blue;
+}
+.contenidoServicio{
+width: 41%;
+margin-top: 5px;
+margin-left: 5%;
+background:#595F57;
+border: 6px outset;
+height: 300px;
+float: left;
+}
+.contenidoProducto{
+width: 41%;
+margin-top: 5px;
+margin-left: 5%;
+background:#a4f1bd ;
+border: 6px outset;
+height: 300px;
+float: left;
+}
+#main_container{
+  width: 90%;
+  margin-left: 5%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 6px outset;
+}
+.header{
+  width: 90%;
+  margin-top: 5px;
+  margin-left: 5%;
+  text-align: center;
+  border: 3px outset;
+  height: 90px;
+}
+.footer{
+  width: 90%;
+  margin-top: 10px;
+  margin-left: 5%;
+  background: #2F4724;
+  border: 10px outset;
+  height: 130px;
+  text-align: center;
+}
